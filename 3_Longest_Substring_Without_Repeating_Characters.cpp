@@ -1,5 +1,5 @@
 class Solution {
-public:
+public: 
     int lengthOfLongestSubstring(string s) {
         int left = 0;
         int maxLength = 0;
