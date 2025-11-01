@@ -11,7 +11,7 @@ public:
             delete temp;
         }
 
-        // If the list is empty after removing head nodes, return nullptr
+        // If the list is empty after removing head nodes, return nullptr 
         if (head == nullptr) {
             return nullptr;
         }
