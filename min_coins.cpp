@@ -18,7 +18,7 @@ int main()
 {
    
     int n ;
-  cin >> n;
+    cin >> n;
     cout<<findMin(n);
     return 0;
 }
